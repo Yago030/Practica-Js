@@ -9,3 +9,4 @@ console.log(producto)
  
 
 console.log(producto.replace("pulgadas", " Tamaño de pulgadas"))
+console.log(producto.to)
